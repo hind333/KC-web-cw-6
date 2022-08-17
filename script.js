@@ -12,3 +12,4 @@ if(grade >=90 && grade <= 100 ){
 }else if(grade>=50 && grade<=59){
     console.log(`ضعيف`)
 }else if(grade<50) console.log(`راسب`)
+// تم التعديل
